@@ -1,0 +1,97 @@
+@media (max-width: 320px) {
+
+.Rectangle {
+  background-color: blue;
+  position: absolute;
+  left: -0.035cm;
+  top: -0.176cm;
+  width: 56.444cm;
+  height: 4.233cm;
+  z-index: 5;
+}
+
+}
+
+@media (min-width: 321px) and (max-width: 479px) {
+
+.Rectangle {
+  background-color: lightgreen;
+  position: absolute;
+  left: -0.035cm;
+  top: -0.176cm;
+  width: 56.444cm;
+  height: 4.233cm;
+  z-index: 5;
+}
+
+}
+
+@media (min-width: 480px) and (max-width: 575px) {
+
+.Rectangle {
+  background-color: grey;
+  position: absolute;
+  left: -0.035cm;
+  top: -0.176cm;
+  width: 56.444cm;
+  height: 4.233cm;
+  z-index: 5;
+}
+
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+
+.Rectangle {
+  background-color: orange;
+  position: absolute;
+  left: -0.035cm;
+  top: -0.176cm;
+  width: 56.444cm;
+  height: 4.233cm;
+  z-index: 5;
+}
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+.Rectangle {
+  background-color: black;
+  position: absolute;
+  left: -0.035cm;
+  top: -0.176cm;
+  width: 56.444cm;
+  height: 4.233cm;
+  z-index: 5;
+}
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+.Rectangle {
+  background-color: red;
+  position: absolute;
+  left: -0.035cm;
+  top: -0.176cm;
+  width: 56.444cm;
+  height: 4.233cm;
+  z-index: 5;
+}
+
+}
+
+@media (min-width: 1200px) {
+
+.Rectangle {
+  background-color: blue;
+  position: absolute;
+  left: -0.035cm;
+  top: -0.176cm;
+  width: 56.444cm;
+  height: 4.233cm;
+  z-index: 5;
+}
+
+}

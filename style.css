@@ -4,6 +4,17 @@
 	
 }
 
+#header-section{
+
+	position: relative;
+	float: left;
+	height: 100%;
+	width: 25%;
+	color: red;
+	padding-top: 10px;
+	
+}
+
 #header-top{
 
     background-color: #000000;
